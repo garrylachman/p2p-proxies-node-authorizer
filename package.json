@@ -1,0 +1,39 @@
+{
+  "name": "p2p-proxies-node-authorizer",
+  "version": "1.0.0",
+  "description": "Utils for authorize your IP in your rev.proxies.online account",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/garrylachman/p2p-proxies-node-authorizer.git"
+  },
+  "keywords": [
+    "Proxy",
+    "Proxies",
+    "P2P",
+    "Proxies",
+    "Http",
+    "Proxy",
+    "Https",
+    "Proxy",
+    "Web",
+    "Proxies",
+    "Scraping",
+    "Crawling"
+  ],
+  "author": "Garry Lachman <garry@lachman.co> (http://lachman.co)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/garrylachman/p2p-proxies-node-authorizer/issues"
+  },
+  "homepage": "https://github.com/garrylachman/p2p-proxies-node-authorizer#readme",
+  "dependencies": {
+    "argv": "0.0.2",
+    "promise-waterfall": "^0.1.0",
+    "request": "^2.73.0"
+  }
+}

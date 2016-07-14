@@ -1,0 +1,9 @@
+{
+  "api": {
+    "base": "http://rev-api.proxies.online",
+    "login": "/login/login",
+    "check": "/login/check",
+    "add": "/account/ips/ip/add"
+  },
+  "ip_provider": "http://www.httpbin.org/ip"
+}
